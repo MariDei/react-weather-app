@@ -12,7 +12,7 @@ export default function Weather(props) {
       humidity: response.data.main.humidity,
       date: "Wednesday 23:15",
       description: response.data.weather[0].description,
-      icon: "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/064/853/original/cloudy.png?1674933258",
+      iconUrl: "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/064/853/original/cloudy.png?1674933258",
       wind: response.data.wind.speed,
       city: response.data.name,
     });
