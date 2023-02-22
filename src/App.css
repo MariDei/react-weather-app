@@ -1,0 +1,27 @@
+body {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/064/883/original/body_ukraine..jpg?1674944093");  
+  font-family: "Oxygen", sans-serif;
+}
+
+.App {
+  max-width: 600px;
+  padding: 0 auto;
+  margin: 0 auto;
+}
+
+.App footer {
+  color: #2470a0;;
+  text-align: center;
+}
+
+.App .coder-link,
+.App .github-link {
+  color: #2470a0;;
+  font-weight: 700;
+}
+
+.App .coder-link:hover,
+.App .github-link:hover {
+  color: #2470a0;
+  text-decoration: none;
+}
