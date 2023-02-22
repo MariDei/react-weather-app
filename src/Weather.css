@@ -37,9 +37,9 @@
 }
 
 .Weather img {
-  display: inline-block;  
   float: left;
   margin-left: 70px;
+  ;
 }
 
 .Weather .temperature {
