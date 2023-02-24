@@ -36,10 +36,9 @@
   text-align: left;
 }
 
-.Weather img {
+.Weather canvas {
   float: left;
-  margin-left: 70px;
-  ;
+  margin: 15px 5px 0 70px;
 }
 
 .Weather .temperature {
