@@ -1,0 +1,11 @@
+.WeatherForecast {
+    color: #83580b;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.WeatherForecast-temperature-min {
+    color:#2470a0; 
+}
+

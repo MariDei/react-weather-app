@@ -28,17 +28,16 @@
   color: #83580b;
   font-size: 44px;
   font-weight: 700;
-  margin-bottom: 0;
+  margin-top: 10px;
 }
-
-.Weather .current-place {
-  margin: 5px 0 0 50px;
+  
+.WeatherInfo {
+  margin: 10px 0 0 15px;
   text-align: left;
 }
 
 .Weather canvas {
-  float: left;
-  margin: 15px 5px 0 50px;
+  margin: 0 15px;
 }
 
 .Weather .temperature {
