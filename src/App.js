@@ -9,17 +9,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Kyiv" />
         <footer>
-          Coded by{" "}
-          <a
-            href="https://www.instagram.com/deimari/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="coder-link"
-          >
-            {" "}
-            Marianna Dei
-          </a>{" "}
-          and{" "}
+          Coded by <strong>Marianna Dei</strong>,{" "}
           <a
             href="https://github.com/MariDei/react-weather-app"
             target="_blank"
@@ -27,8 +17,17 @@ export default function App() {
             className="github-link"
           >
             {" "}
-            open-source code on GitHub
-          </a>
+            open-sourced code on GitHub,
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://shecodes-react-weatherapp.netlify.app"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="netlify-link"
+          >
+            hosted on Netlify{" "}
+          </a>{" "}
         </footer>
       </div>
     </div>

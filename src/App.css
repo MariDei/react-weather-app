@@ -6,7 +6,7 @@ body {
 .App {
   max-width: 600px;
   padding: 0 auto;
-  margin: 0 auto;
+  margin: 5px auto;
 }
 
 .App footer {
@@ -15,13 +15,21 @@ body {
 }
 
 .App .coder-link,
-.App .github-link {
+.App .github-link,
+.App .netlify-link{
   color: #2470a0;
   font-weight: 700;
 }
 
 .App .coder-link:hover,
-.App .github-link:hover {
+.App .github-link:hover,
+.App .netlify-link:hover {
   color: #2470a0;
   text-decoration: none;
+}
+
+@media (max-width: 475px) {
+  .App footer {
+  font-size: 14px;
+ }
 }

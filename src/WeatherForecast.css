@@ -10,3 +10,8 @@
     margin-left: 5px;
 }
 
+@media (max-width: 475px) {
+  .WeatherForecast {
+    font-size: 14px;
+ }
+}
