@@ -16,15 +16,13 @@ body {
 }
 
 .App .coder-link,
-.App .github-link,
-.App .netlify-link{
+.App .github-link {
   color: #2470a0;
   font-weight: 700;
 }
 
 .App .coder-link:hover,
-.App .github-link:hover,
-.App .netlify-link:hover {
+.App .github-link:hover {
   color: #2470a0;
   text-decoration: none;
 }
