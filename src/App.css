@@ -11,6 +11,7 @@ body {
 
 .App footer {
   color: #2470a0;
+  font-size: 14px;
   text-align: center;
 }
 
@@ -30,6 +31,6 @@ body {
 
 @media (max-width: 475px) {
   .App footer {
-  font-size: 14px;
+  font-size: 12px;
  }
 }
