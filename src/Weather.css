@@ -106,19 +106,17 @@
   }
 
   .Weather .temperature {
-    font-size: 52px;
+    font-size: 48px;
   }
 
  .Weather .unit {
     float: right; 
     font-size: 12px;
-    line-height: 0.5;
     top: -30px;
   }   
 
   .Weather .unit-active { 
     font-size: 12px;
-    line-height: 0.5;
     top: -20px;
   }
 
