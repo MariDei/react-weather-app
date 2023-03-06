@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 export default function WeatherTemperature(props) {
   return (
@@ -8,4 +8,3 @@ export default function WeatherTemperature(props) {
     </div>
   );
 }   
- 
