@@ -7,4 +7,5 @@ export default function WeatherTemperature(props) {
       <span className="unit">℃</span>
     </div>
   );
-}    
+}   
+ 
