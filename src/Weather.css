@@ -51,24 +51,12 @@
 
 .Weather .unit {
   position: relative;
-  color:#2470a0;
+  color:#83580b;
   font-size: 16px;
   line-height: 1;
-}
-
-.Weather .unit-active {
-  position: relative;
-  color: #83580b;
-  font-size: 16px;
   font-weight: 700;
   line-height: 1;
-  top: -26px;  
-}
-
-.Weather a {
-  color:#2470a0;
-  text-decoration: none;
-
+  top: -26px; 
 }
 
 .Weather ul {
@@ -111,18 +99,12 @@
 
  .Weather .unit {
     float: right; 
-    font-size: 12px;
-    line-height: 0.5;
-    top: -30px;
-  }   
-
-  .Weather .unit-active { 
-    font-size: 12px;
-    line-height: 0.5;
-    top: -20px;
-  }
-
-  .WeatherInfo li { 
     font-size: 14px;
+    line-height: 0.5;
+    top: 20px;
+  } 
+  
+  .WeatherInfo li { 
+    font-size: 16px;
   }
 }
