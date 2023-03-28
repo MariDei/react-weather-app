@@ -98,10 +98,8 @@
   }
 
  .Weather .unit {
-    float: right; 
     font-size: 14px;
     line-height: 0.5;
-    top: 20px;
   } 
   
   .WeatherInfo li { 
